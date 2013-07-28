@@ -1,3 +1,17 @@
+##########
+# Unity ##
+##########
+
+.DS_Store
+Library
+*.csproj
+*.sln
+*.userprefs
+Temp
+*.pidb
+Build
+*.unityproj
+
 #################
 ## Eclipse
 #################
