@@ -3,14 +3,21 @@
 ##########
 
 .DS_Store
-Library
+
+[Oo]bj/
+[Tt]emp/
+[Ll]ibrary/
+
+#These are files in the root folder of the project
+*.tmproj
 *.csproj
-*.sln
-*.userprefs
-Temp
-*.pidb
-Build
 *.unityproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.userprefs
+
 
 #################
 ## Eclipse
